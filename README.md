@@ -40,3 +40,5 @@ Assets/
   Sprites/   palabras, pistas y UI
   Sounds/    música de fondo y efectos de acierto y error
 ```
+
+© 2024 José Luis Cuenca Gutiérrez. Todos los derechos reservados.
